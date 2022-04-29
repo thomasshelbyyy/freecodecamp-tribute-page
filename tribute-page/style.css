@@ -1,0 +1,43 @@
+body {
+    background-color: bisque;
+    margin: auto;
+    line-height: 2;
+}
+
+.text {
+    text-align: center;
+}
+
+#img-div {
+    width: 90%;
+    margin: auto;
+    display: block;
+}
+
+#image {
+    margin: auto;
+    display: block;
+}
+
+#tribute-info {
+    width: 40%;
+    margin: auto;
+    text-align: justify;
+}
+
+#quote {
+    width: 40%;
+    margin: auto;
+}
+
+#quote{ 
+    text-align: justify;
+    font-size: 19px;
+    font-style: italic;
+}
+
+footer {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
